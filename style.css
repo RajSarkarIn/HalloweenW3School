@@ -1,0 +1,56 @@
+body {
+
+    background-image: url(images/Bgimage.jpg);
+    background-color: Black;
+
+}
+
+.ba {
+    width: 310px;
+    border-style: dotted;
+    border-color: red;
+    border-width: 5px;
+
+}
+
+h1 {
+    font-family: "Segoe Script", Tahoma;
+    color: white;
+
+}
+
+.p1 {
+    text-indent: 99px;
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+    color: #de2c2c;
+}
+
+.p2 {
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+    color: #de2c2c;
+}
+
+.his {
+    width: 95px;
+    border: 2px;
+    color: aqua;
+    background: blue;
+    text-decoration: underline;
+
+}
+
+.dress {
+    text-decoration: underline;
+    width: 80px;
+    background: #de2c2c;
+    Color: white;
+
+}
+
+.dtable {
+    border-style: double;
+    border-color: pink;
+
+}
