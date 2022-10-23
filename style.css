@@ -5,6 +5,7 @@ nav{
 .navtext{
     font-family:'Courier New', Courier, monospace;
     font-size:25px;
+    color:blueviolet;
 }
 body {
     
@@ -87,7 +88,10 @@ h1 {
 }
 footer{
     text-align:center;
-    color:red;
+    color:rgb(70, 204, 70);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size:19px;
+}
+.crwhite{
+    color:white;
 }
