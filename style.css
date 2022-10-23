@@ -7,12 +7,10 @@ nav{
     font-size:25px;
     color:blueviolet;
 }
-body {
-    
-    background-color:#1c1717;
-    
 
-}
+body {
+        background-color:#1c1717;
+    }
 
 .ba {
     width: 310px;
@@ -95,3 +93,22 @@ footer{
 .crwhite{
     color:white;
 }
+
+.trick{
+    vertical-align:middle;
+}
+
+.box {
+    width: 900px;
+    height: 600px;
+    background:#1c1717;
+    position: absolute;
+    top:50%;
+    left:0;
+    right:0;
+    translate:0 -50%;
+    margin:auto;
+    display:grid;
+    place-content:center;
+  }
+  
