@@ -1,7 +1,7 @@
 body {
-
-    background-image: url(images/Bgimage.jpg);
-    background-color: Black;
+    
+    background-color:#1c1717;
+    
 
 }
 
@@ -10,6 +10,7 @@ body {
     border-style: dotted;
     border-color: red;
     border-width: 5px;
+    font-style:italic;
 
 }
 
@@ -33,11 +34,12 @@ h1 {
 }
 
 .his {
-    width: 95px;
-    border: 2px;
-    color: aqua;
-    background: blue;
+    width:112px;
+    background:#991bb0;
+    color:white;
     text-decoration: underline;
+    font-style:italic;
+    font-family:"Segoe Script", Tahoma;
 
 }
 
@@ -53,4 +55,25 @@ h1 {
     border-style: double;
     border-color: pink;
 
+}
+
+.chooseone {
+    color:white;
+    font-family:Gabriola;
+    font-size:48px;
+        }
+.tot {
+    font-family:"Comic Sans MS";
+    font-size:62px;
+    text-align:center;
+
+}
+.p3 {
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+    color: #de2c2c;
+}
+.treatbox{
+    border-style:dashed;
+    border-color:green;
 }
