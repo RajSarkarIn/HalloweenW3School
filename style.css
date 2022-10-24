@@ -1,6 +1,7 @@
 nav{
     color:red;
 
+
 }
 .navtext{
     font-family:'Courier New', Courier, monospace;
@@ -18,6 +19,7 @@ body {
     border-color: red;
     border-width: 5px;
     font-style:italic;
+    text-shadow:4px 5px 6px red;
 
 }
 
