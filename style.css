@@ -9,6 +9,13 @@ nav{
     color:blueviolet;
 }
 
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
 body {
         background-color:#1c1717;
     }
@@ -85,6 +92,7 @@ h1 {
 .treatbox{
     border-style:dashed;
     border-color:green;
+    border-width:8px;
 }
 footer{
     text-align:center;
