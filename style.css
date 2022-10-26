@@ -64,7 +64,6 @@ h1 {
     width: 80px;
     background: #de2c2c;
     Color: white;
-
 }
 
 .dtable {
@@ -93,6 +92,7 @@ h1 {
     border-style:dashed;
     border-color:green;
     border-width:8px;
+    border-spacing:20px 10px;
 }
 footer{
     text-align:center;
