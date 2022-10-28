@@ -1,16 +1,17 @@
-nav{
-    color:red;
-    text-align:right;
+nav {
+    color: red;
+    text-align: right;
 
 
 }
-.navtext{
-    font-family:'Courier New', Courier, monospace;
-    font-size:25px;
-    color:blueviolet;
+
+.navtext {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: blueviolet;
 }
 
-.logo{
+.logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -18,16 +19,16 @@ nav{
 }
 
 body {
-        background-color:#1c1717;
-    }
+    background-color: #1c1717;
+}
 
 .ba {
     width: 310px;
     border-style: dotted;
     border-color: red;
     border-width: 5px;
-    font-style:italic;
-    text-shadow:4px 5px 6px red;
+    font-style: italic;
+    text-shadow: 4px 5px 6px red;
 
 }
 
@@ -51,12 +52,12 @@ h1 {
 }
 
 .his {
-    width:112px;
-    background:#991bb0;
-    color:white;
+    width: 112px;
+    background: #991bb0;
+    color: white;
     text-decoration: underline;
-    font-style:italic;
-    font-family:"Segoe Script", Tahoma;
+    font-style: italic;
+    font-family: "Segoe Script", Tahoma;
 
 }
 
@@ -74,53 +75,58 @@ h1 {
 }
 
 .chooseone {
-    color:white;
-    font-family:Gabriola;
-    font-size:48px;
-        }
+    color: white;
+    font-family: Gabriola;
+    font-size: 48px;
+}
+
 .tot {
-    font-family:"Comic Sans MS";
-    font-size:62px;
-    text-align:center;
+    font-family: "Comic Sans MS";
+    font-size: 62px;
+    text-align: center;
 
 }
+
 .p3 {
     font-family: "Comic Sans MS";
     font-size: 18px;
     color: #de2c2c;
 }
-.treatbox{
-    border-style:dashed;
-    border-color:green;
-    border-width:8px;
-    border-spacing:20px 10px;
-}
-footer{
-    text-align:center;
-    color:rgb(70, 204, 70);
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size:19px;
-}
-.crwhite{
-    color:white;
+
+.treatbox {
+    border-style: dashed;
+    border-color: green;
+    border-width: 8px;
+    border-spacing: 20px 10px;
 }
 
-.trick{
-    vertical-align:middle;
-    background-image:url(images/Bgimage.webp);
-    background-repeat:no-repeat;
+footer {
+    text-align: center;
+    color: rgb(70, 204, 70);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 19px;
+}
+
+.crwhite {
+    color: white;
+}
+
+.trick {
+    vertical-align: middle;
+    background-image: url(images/Bgimage.webp);
+    background-repeat: no-repeat;
 }
 
 .box {
     width: 900px;
     height: 600px;
-    background:#1c1717;
+    background: #1c1717;
     position: absolute;
-    top:50%;
-    left:0;
-    right:0;
-    translate:0 -50%;
-    margin:auto;
-    display:grid;
-    place-content:center;
-  }
+    top: 50%;
+    left: 0;
+    right: 0;
+    translate: 0 -50%;
+    margin: auto;
+    display: grid;
+    place-content: center;
+}
