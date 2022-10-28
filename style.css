@@ -2,7 +2,6 @@ nav {
     color: red;
     text-align: right;
 
-
 }
 
 .navtext {
@@ -112,7 +111,6 @@ footer {
 }
 
 .trick {
-    vertical-align: middle;
     background-image: url(images/Bgimage.webp);
     background-repeat: no-repeat;
 }
