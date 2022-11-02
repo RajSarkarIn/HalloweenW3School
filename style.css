@@ -4,10 +4,22 @@ nav {
 
 }
 
+.navul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
 .navtext {
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
-    color: blueviolet;
+    color: green;
+    background-color: pink;
+    border-width: 2px;
+    border-style: double;
+    border-radius: 10px 10px 10px 10px;
+    border-color: red;
+    text-decoration: none;
 }
 
 .logo {
@@ -28,6 +40,8 @@ body {
     border-width: 5px;
     font-style: italic;
     text-shadow: 4px 5px 6px red;
+    margin-left:auto;
+    margin-right:auto;
 
 }
 
@@ -99,6 +113,15 @@ h1 {
     border-spacing: 20px 10px;
 }
 
+.fh {
+    font-family: "Comic Sans MS";
+    font-size: normal;
+    background-color: #58a84d;
+    color: yellow;
+    width: 450px;
+    text-decoration: underline;
+}
+
 footer {
     text-align: center;
     color: rgb(70, 204, 70);
@@ -127,4 +150,88 @@ footer {
     margin: auto;
     display: grid;
     place-content: center;
+}
+
+.ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    list-style-image: url(images/bullet.webp);
+}
+
+.ada {
+    font-family: "Calisto MT", serif;
+    font-size: 20px;
+    text-decoration: underline;
+    color: aqua;
+}
+
+
+
+/* Movie styles*/
+.pbj {
+    font-family: "Segoe Script", Tahoma;
+}
+
+.bjpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px;
+    border-style: double;
+    border-color: #daf04d;
+}
+
+.ppj {
+    font-style: italic;
+    color: aqua;
+    font-size: x-large;
+    text-align: center;
+}
+
+.info {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    color: red;
+    border: 2px;
+    border-style: dashed;
+    border-color: #daf04d;
+    width: 16cm;
+
+}
+
+.detailsp {
+    font-family: "Comic Sans MS";
+    color: red;
+    font-size: 18px;
+}
+
+.plot {
+    width: 1.3cm;
+    background: #991bb0;
+    color: white;
+    text-decoration: underline;
+    font-style: italic;
+    font-family: "Segoe Script", Tahoma;
+
+}
+
+.hr2 {
+    width: 18cm;
+}
+
+.watchnow {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    text-decoration: underline;
+    color: rgb(121, 218, 209);
+}
+
+.back {
+    position: fixed;
+    right: 5px;
+    bottom: 30px;
+
+}
+.midv{
+    float:right;
 }
