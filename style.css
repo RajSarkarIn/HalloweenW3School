@@ -20,6 +20,8 @@ nav {
     border-radius: 10px 10px 10px 10px;
     border-color: red;
     text-decoration: none;
+    margin-right:5px;
+    padding:2px;
 }
 
 .logo {
